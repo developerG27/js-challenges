@@ -10,3 +10,4 @@
  var color;
 
 // TODO:
+var color;

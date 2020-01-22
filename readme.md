@@ -12,3 +12,5 @@ git push origin master (per pushare il repository su github)
 git pull origin master (per prendere le modifiche)
 
 - Per poter fare il push devi essere sicura di avere l'ultima versione del progetto.
+
+//TODO: Test
