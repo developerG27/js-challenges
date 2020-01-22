@@ -6,3 +6,5 @@
  * - Ad ogni click si cambia lo stile del background
  * - Inserisci come valore della proprietà l'array che viene richiamato in maniera Random
  *  */
+
+// TODO: risolvi questo
