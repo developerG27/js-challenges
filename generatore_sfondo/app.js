@@ -7,4 +7,4 @@
  * - Inserisci come valore della proprietà l'array che viene richiamato in maniera Random
  *  */
 
-
+ var color;
