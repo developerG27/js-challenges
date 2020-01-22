@@ -7,11 +7,20 @@
  * - Inserisci come valore della proprietà l'array che viene richiamato in maniera Random
  *  */
 
-var color = ["blue", "red", "green", "pink", "red", "orange", "yellow", "brown"];
+var color = [
+  "blue",
+  "red",
+  "green",
+  "pink",
+  "red",
+  "orange",
+  "yellow",
+  "brown"
+];
 
-document.addEventListener('click',function(){
+document.addEventListener("click", function() {
   document.querySelector("body").style.backgroundColor = color;
-})
+});
 
 /* TODO: ho dichiarato la variabile
 -inserito i colori nell'array
@@ -22,7 +31,7 @@ document.addEventListener('click',function(){
 
 /**
  * TODO: Prima di tutto se vuoi andare a capo con i TODO devi fare così e non come hai fatto sopra.
- * TODO: nella linea 12 si scrive document.body e non solo document
- * TODO: color è un array in questo caso, e quindi se vuoi inserire il color di sfondo dei metter color[0] (un numero a scelta, tra 0 e 7)
- * 
-*/
+ * TODO: color è un array in questo caso, e quindi se vuoi inserire "color" come sfondo devi metter color[0] (un numero a scelta, tra 0 e 7)
+ * TODO: siccome però deve essere uno sfondo casuale devi inserire color[parseInt(Math.random * 10)]
+ * TODO: Cancella i tuoi TODO una volta che ricevi i miei suggerimenti, quando hai risolto e hai ancora dubbi, scrivene di nuovi.
+ */
