@@ -12,10 +12,3 @@ document.body.style.backgroundColor = color[parseInt(Math.random() * 10)];
 setInterval(function() {
   document.body.style.backgroundColor = color[parseInt(Math.random() * 10)];
 }, 3000);
-
-//TODO: perchè parte dal bianco e non direttamente dal rosso?
-
-/**
- * TODO: Perché di default lo sfondo è bianco e dopo tre secondi gli metti un colore random, per risolvere potresti fare cosi:
- *
- * */
