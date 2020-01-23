@@ -5,6 +5,22 @@
  * - Stampa sul documento il nuovo array
  */
 
-var city = ['Monaco', 'Londra', 'Florida', 'Messico', 'Amsterdam', 'Madagascar', 'Dubai'];
-delete city[3]
+var city = [
+  "Monaco",
+  "Londra",
+  "Florida",
+  "Messico",
+  "Amsterdam",
+  "Madagascar",
+  "Dubai"
+];
+delete city[3];
 document.body.innerHTML = city;
+
+/**
+ * TODO: Cosa è delete, una tua invenzione?
+ * TODO: Suggerimento:  https://stackabuse.com/remove-element-from-an-array-in-javascript/
+ *
+ *
+ *
+ * */
