@@ -4,3 +4,7 @@
  * - Elimina il terzo elemento
  * - Stampa sul documento il nuovo array
  */
+
+var city = ['Monaco', 'Londra', 'Florida', 'Messico', 'Amsterdam', 'Madagascar', 'Dubai'];
+delete city[3]
+document.body.innerHTML = city;
