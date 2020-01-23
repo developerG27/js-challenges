@@ -14,13 +14,5 @@ var city = [
   "Madagascar",
   "Dubai"
 ];
-delete city[3];
-document.body.innerHTML = city;
-
-/**
- * TODO: Cosa è delete, una tua invenzione?
- * TODO: Suggerimento:  https://stackabuse.com/remove-element-from-an-array-in-javascript/
- *
- *
- *
- * */
+city.splice(2,1);
+document.body.innerHTML = city + '<br>';
