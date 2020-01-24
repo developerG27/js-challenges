@@ -18,7 +18,7 @@ function clock() {
 
 /*
 parametro1: una funzione anonima
-parametro2: i millesecondi
+parametro2: i millesecondic
 
 setInterval(parametro1
     Qui si richiama la tua funzione clock()
@@ -28,6 +28,6 @@ setInterval(parametro1
 //TODO: non mi appare niente, dove sto sbagliando? Ho aggiunto setInterval e i millesecondi come mi hai scritto nel todo precedente
 
 /**
- * TODO: Quando crei una funzione poi la devi richiamare, è come se avessi insegnato al pc una nuova cosa, ma non gli dici come farla
+ * TODO: Quando crei una funzione poi la devi richiamare, è come se avessi insegnato al pc una nuova cosa, ma non gli dici QUANDO farla
  * TODO: Il setInterval va fuori della funzione, perchè te vuoi richiamare quella funzione ogni 1000 millesecondi
  */
