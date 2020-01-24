@@ -12,3 +12,7 @@ function time() {
 }
 
 //TODO: fino a qui ho capito, poi non riesco a capire l'esempio, mi spieghi?
+/**
+ * TODO: Hai creato la funzione ma non l'hai richiamata, in pratica gli hai insegnato al computer come si fa, ma non gli hai mai detto falla!
+ * TODO: In questo caso questa funzione deve essere eseguita ogni secondo, quindi dovrai creare un setInterval con latenza di 1000 millesecondi che esegue time()
+ */
