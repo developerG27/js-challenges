@@ -8,7 +8,11 @@ function clock() {
   var hour = time.getHours();
   var minute = time.getMinutes();
   var second = time.getSeconds();
-  document.body.innerHTML = hour + ":" + mimute + ":" + second;
+
+  setInterval(function clock(){
+    document.body.innerHTML = hour + ":" + minute + ":" + second;
+  }, 1000);
 }
 
-//TODO: mi riscrivi la spiegazione?
+
+//TODO: non mi appare niente, dove sto sbagliando? Ho aggiunto setInterval e i millesecondi come mi hai scritto nel todo precedente
