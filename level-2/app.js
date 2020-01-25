@@ -1,3 +1,3 @@
 /**
- * Creare un blog usando questo servizio: https://jsonplaceholder.typicode.com/posts
+ * Creare un blog usando questo servizio: https://jsonplaceholder.typicode.com/photos
  */
