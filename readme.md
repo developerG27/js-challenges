@@ -18,5 +18,5 @@ git pull origin master (per prendere le modifiche)
 - Ctrl + K: Permette fare il commit
 - Ctrl + D: Visualizza le differenze nei file
 - Ctrl + T: Permette fare il pull
-- Ctrl + Alt + K: Permette Fare il push
+- Ctrl + Shift + K: Permette Fare il push
 - Ctrl + Click: va sul percorso
