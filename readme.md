@@ -13,4 +13,9 @@ git pull origin master (per prendere le modifiche)
 
 - Per poter fare il push devi essere sicura di avere l'ultima versione del progetto.
 
-//TODO: Test
+Shift Shift: Apre un qualsiasi file
+Ctrl + Alt + F: Cerca una qualsiasi frase
+Ctrl + K: Permette fare il commit
+Ctrl + T: Permette fare il pull
+Ctrl + Alt + K: Permette Fare il push
+Ctrl + Click: va sul percorso
